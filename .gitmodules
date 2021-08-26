@@ -1,0 +1,3 @@
+[submodule "lidar_send"]
+	path = lidar_send
+	url = https://github.com/Das-Auto/lidar_send
